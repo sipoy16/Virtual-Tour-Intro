@@ -1036,7 +1036,7 @@
  "paddingBottom": 0,
  "transparencyActive": false,
  "paddingTop": 0,
- "click": "window.location.herf='https://virtual-tour-upn-veteran-yogyakarta.vercel.app/';",
+ "click": "window.location.href='https://virtual-tour-upn-veteran-yogyakarta.vercel.app/';",
  "iconURL": "skin/IconButton_1E1C7714_0BA4_F559_419E_A1DE0E410092.png",
  "class": "IconButton",
  "data": {
